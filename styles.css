@@ -1,0 +1,42 @@
+body{
+    background: hsl(212, 45%, 89%);
+    font-family: Outfit;
+    text-align: center;
+}
+
+#card{
+    background: white;
+    width: 18%;
+    margin: 5% auto auto auto;
+    padding: 15px;
+    border-radius: 15px;
+    box-shadow: 0px 0px 25px 0px rgb(214, 214, 214);
+}
+
+#inside{
+    width: 100%;
+    margin: auto;
+    width: 100%;
+    text-align: center;
+}
+
+img {
+    width: 100%;
+    margin: auto;
+    border-radius: 10px;
+}
+
+h1{
+    font-size: 22px;
+    color:hsl(218, 44%, 22%)
+}
+
+p{
+    font-size: 15px;
+    color: hsl(220, 15%, 55%);
+}
+
+footer{
+    margin-top: 50px;
+    text-align: center;
+}
